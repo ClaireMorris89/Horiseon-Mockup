@@ -34,11 +34,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*removed header class and div tags: redundant*/
+ul {
     list-style-type: none;
 }
 
-.header div ul li {
+/*removed header class, div, and ul tags: redundant*/
+li {
     display: inline-block;
     margin-left: 25px;
 }
