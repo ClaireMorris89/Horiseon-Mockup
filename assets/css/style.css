@@ -20,7 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/*changed seo class to id, removed .header and h1 tags*/
+ #seo {
     color: #d9dcd6;
 }
 
