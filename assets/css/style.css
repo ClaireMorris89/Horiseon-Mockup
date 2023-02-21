@@ -15,7 +15,8 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+/*removed unnecessary header class*/
+h1 {
     display: inline-block;
     font-size: 48px;
 }
