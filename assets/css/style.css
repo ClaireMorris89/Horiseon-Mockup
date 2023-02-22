@@ -143,8 +143,4 @@ h3 {
     text-align: center;
 }
 
-/* commented out unnecessary font sizing
-.footer h2 {
-    font-size: 20px;
-}
-*/
+/*deleted h2 footer styling because I changed it to an h4 so headers were sequential*/
